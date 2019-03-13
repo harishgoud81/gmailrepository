@@ -17,7 +17,7 @@ import org.openqa.selenium.opera.OperaOptions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class W2smsmethods //did my repository
+public class W2smsmethods //repository delete
 {
 public WebDriver driver;
 public WebDriverWait wait;
